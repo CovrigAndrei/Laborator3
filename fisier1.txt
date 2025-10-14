@@ -1,2 +1,2 @@
 Modificare pe ramura testing.
-Modificare conflictuală pe main.
+Modificare combinată: main și feature.
