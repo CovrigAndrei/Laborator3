@@ -1,1 +1,2 @@
 Modificare pe ramura testing.
+Modificare conflictuală pe feature.
